@@ -11,4 +11,4 @@ Approach
 5. I created an isntance variable called landed_planes which is an empty array'
 6. i created a method land_plane so i can push the plane landed in the array
 7. i created takeoff_plane method to instruct a plane to take off and confirm that it is no longer in the airport
-
+8. 
